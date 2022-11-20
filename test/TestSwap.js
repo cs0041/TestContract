@@ -41,6 +41,27 @@ describe('Swap', function () {
     })
     })
   })
+
+
+  describe('removeLiquidity()', function () {
+    describe('non-onwer-removeLiquidity', function () {
+    it('reverts', async function () {
+       await swap.connect(owner).addLiquidity(ethers.utils.parseEther('100.0'),ethers.utils.parseEther('10.0'))
+       await expect(swap.connect(signer2).removeLiquidity(ethers.utils.parseEther('100'))).to.be.rejectedWith('Only can call this fucntion')
+    })
+    })
+    describe('onwer-removeLiquidity', function () {
+    it('should removeLiquidity', async function () {
+      await swap.connect(owner).addLiquidity(ethers.utils.parseEther('100.0'),ethers.utils.parseEther('10.0'))
+      const balanceOf_shares = await swap.balanceOf(owner.address)
+      await swap.connect(owner).removeLiquidity(balanceOf_shares)
+      expect(await swap.reserve0()).to.equal(ethers.utils.parseEther('0.0'))
+      expect(await swap.reserve1()).to.equal(ethers.utils.parseEther('0.0'))
+    })
+    })
+  })
+
+  
   describe('swap()', function () {
     describe('try swap with token does not exist', function () {
     it('reverts', async function () {
@@ -69,5 +90,12 @@ describe('Swap', function () {
       expect(beforeUserBalanceTHB).to.equal(afterUserBalanceTHB.sub(_amountOut))
     })
     })
+    describe('try swap with impossible slippage', function () {
+    it('reverts', async function () {
+      await swap.connect(owner).addLiquidity(ethers.utils.parseEther('10.0'),ethers.utils.parseEther('100.0'))
+      await expect(swap.connect(owner).swap(pusd.address,ethers.utils.parseEther('1'),ethers.utils.parseEther('10.0'), 2668948397)).to.be.rejectedWith('slippage')
+    })
+    })
   })
 })
+
