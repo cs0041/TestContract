@@ -73,6 +73,11 @@ describe('Swap', function () {
       await expect(swap.connect(owner).swap(pusd.address,ethers.utils.parseEther('0'),ethers.utils.parseEther('100.0'), 2668948397)).to.be.rejectedWith('amountIn must > 0')
     })
     })
+    describe('try swap with deadline ', function () {
+    it('reverts', async function () {
+      await expect(swap.connect(owner).swap(pusd.address,ethers.utils.parseEther('1'),ethers.utils.parseEther('100.0'), 1268948397)).to.be.rejectedWith('Router EXPIRED')
+    })
+    })
     describe('try swap ', function () {
     it('should give token (x*y=k)', async function () {
       await swap.connect(owner).addLiquidity(ethers.utils.parseEther('10.0'),ethers.utils.parseEther('100.0'))
