@@ -29,9 +29,11 @@ describe('Staking', function () {
         expect(await staking.getLengthpool()).to.equal(1)
     })
     it('getAllpool()', async function () {
-        // expect(await staking.getAllpool()).to.equal([])
+        expect(await staking.getAllpool()).to.deep.equal([])
         await staking.connect(signer1).addPool('PUSD', 'PUSD', pusd.address, 1000, 1, 500)
-        expect(await staking.getAllpool()).to.equal([ethers.BigNumber.from(1)])
+        await staking.connect(signer1).addPool('PUSD', 'PUSD', pusd.address, 1000, 1, 500)
+        await staking.connect(signer1).addPool('PUSD', 'PUSD', pusd.address, 1000, 1, 500)
+        expect(await staking.getAllpool()).to.deep.equal([ethers.BigNumber.from(1),ethers.BigNumber.from(2),ethers.BigNumber.from(3)])
     })
      it('getPoolById()', async function () {
         let pool = await staking.getPoolById(0)
@@ -95,12 +97,14 @@ describe('Staking', function () {
         expect(position2.open).to.equal(true)
     })
      it('getPositionIdsForAddress()', async function () {
-        // expect(await staking.getPositionIdsForAddress(signer1.address)).to.equal([])
+        expect(await staking.getPositionIdsForAddress(signer1.address)).to.deep.equal([])
         await staking.connect(signer1).addPool('PUSD', 'PUSD', pusd.address, 1000, 1, 500)
         await pusd.connect(signer1).approve(staking.address, ethers.utils.parseEther('1000'));
         const amount = ethers.utils.parseEther('100.0')
         await staking.connect(signer1).stakeEther(1, amount)
-        // expect(await staking.getPositionIdsForAddress(signer1.address)).to.equal([ethers.BigNumber.from(1)])
+        await staking.connect(signer1).stakeEther(1, amount)
+        await staking.connect(signer1).stakeEther(1, amount)
+        expect(await staking.getPositionIdsForAddress(signer1.address)).to.deep.equal([ethers.BigNumber.from(1),ethers.BigNumber.from(2),ethers.BigNumber.from(3)])
      })
   })
 
