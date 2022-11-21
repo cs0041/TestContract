@@ -36,7 +36,7 @@ contract Faucet{
     function modifyAmountToken(uint256 _amount0,uint256 _amount1) external onlyOwner {
        require(isOpen,"it Close");
        amount0 = _amount0 * 10 ** 18;
-       amount1 = _amount1 * 10 ** 18;
+       amount1 = _amount1 * 10 ** 18; 
     }
 
 

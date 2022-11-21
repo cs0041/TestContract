@@ -1,0 +1,2258 @@
+{ 
+ "contracts\\Faucet.sol": {
+  "17": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "18": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "19": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "20": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "21": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "22": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "23": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "27": [
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "28": [
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "32": [
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "33": [
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "37": [
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "38": [
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "39": [
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "44": [
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "48": [
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "49": [
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "50": [
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "51": [
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "55": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "56": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "57": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "59": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "60": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "61": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "62": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "67": [
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   }
+  ],
+  "68": [
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   }
+  ]
+ },
+ "contracts\\PUSD.sol": {
+  "10": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should set owner",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data positions",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should set owner",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ]
+ },
+ "contracts\\Staking.sol": {
+  "53": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data positions",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "54": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "Empty data positions",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "72": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "83": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "84": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "88": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "92": [
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "96": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "97": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "98": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "99": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "100": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "102": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "117": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "120": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "121": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "125": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "129": [
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "130": [
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "131": [
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "135": [
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "139": [
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "143": [
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "147": [
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "149": [
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "153": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "154": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "156": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "157": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "158": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "160": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "161": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "162": [
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "165": [
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "166": [
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "167": [
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "174": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ],
+  "175": [
+   {
+    "title": "getLengthpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getAllpool()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPoolById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionById()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "getPositionIdsForAddress()",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "data pool must be equal input",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot pool",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add position stakeERC20",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "add a lot position",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "changes the unlockDate",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "should modify lock period and apy",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and interest",
+    "file": "test\\TestStaking.js"
+   },
+   {
+    "title": "transfers principal and penalize fee",
+    "file": "test\\TestStaking.js"
+   }
+  ]
+ },
+ "contracts\\Swap.sol": {
+  "17": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "18": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "19": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "23": [],
+  "24": [],
+  "34": [],
+  "35": [],
+  "41": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "42": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "59": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "60": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "61": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "65": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "66": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "70": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "71": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "75": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "76": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "81": [
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "82": [
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "85": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "86": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "92": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "93": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "96": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "98": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "99": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "101": [
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "105": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "106": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "108": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "109": [],
+  "112": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "113": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "115": [],
+  "120": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "121": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "123": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "129": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "130": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "132": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "133": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "134": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "136": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "137": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "139": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "140": [
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "144": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "145": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "146": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "147": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "148": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "149": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "152": [],
+  "157": [],
+  "161": [
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "162": [
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "166": [
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ],
+  "167": [
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ]
+ },
+ "contracts\\THB.sol": {
+  "10": [
+   {
+    "title": "should set owner",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyTimeFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyLockHourPeriods",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should modifyAmountToken",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should togleOpen",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should withdrawAllandClose",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should getFaucet",
+    "file": "test\\TestFaucet.js"
+   },
+   {
+    "title": "should set owner",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "reverts",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should addLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should removeLiquidity",
+    "file": "test\\TestSwap.js"
+   },
+   {
+    "title": "should give token (x*y=k)",
+    "file": "test\\TestSwap.js"
+   }
+  ]
+ }
+}

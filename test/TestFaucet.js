@@ -5,7 +5,7 @@ const exp = require('constants')
 describe('Faucet', function () {
   beforeEach(async function () {
     ;[owner, signer2] = await ethers.getSigners()
-
+ 
     PUSDTOKEN = await ethers.getContractFactory('PUSD', owner)
     pusd = await PUSDTOKEN.deploy()
     THBTOKEN = await ethers.getContractFactory('THB', owner)

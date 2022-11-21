@@ -1,0 +1,644 @@
+{
+ "stats": {
+  "suites": 56,
+  "tests": 45,
+  "passes": 45,
+  "pending": 0,
+  "failures": 0
+ },
+ "tests": [
+  {
+   "title": "should set owner",
+   "fullTitle": "Faucet deploy should set owner",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyTimeFaucet() non-onwer-modifyTimeFaucet reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyTimeFaucet",
+   "fullTitle": "Faucet modifyTimeFaucet() onwer-modifyTimeFaucet should modifyTimeFaucet",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyLockHourPeriods() non-onwer-modifyLockHourPeriods reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyLockHourPeriods",
+   "fullTitle": "Faucet modifyLockHourPeriods() onwer-modifyLockHourPeriods should modifyLockHourPeriods",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyAmountToken() non-onwer-modifyAmountToken reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyAmountToken",
+   "fullTitle": "Faucet modifyAmountToken() onwer-modifyAmountToken should modifyAmountToken",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet togleOpen() non-onwer-togleOpen reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should togleOpen",
+   "fullTitle": "Faucet togleOpen() onwer-modifyAmountToken should togleOpen",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet withdrawAllandClose() non-onwer-withdrawAllandClose reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should withdrawAllandClose",
+   "fullTitle": "Faucet withdrawAllandClose() onwer-withdrawAllandClose should withdrawAllandClose",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet getFaucet() getFaucet when on cooldown reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet getFaucet() getFaucet when isClose reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should getFaucet",
+   "fullTitle": "Faucet getFaucet() getFaucet should getFaucet",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should set owner",
+   "fullTitle": "Staking deploy should set owner",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getLengthpool()",
+   "fullTitle": "Staking read get function  in contract  getLengthpool()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getAllpool()",
+   "fullTitle": "Staking read get function  in contract  getAllpool()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPoolById()",
+   "fullTitle": "Staking read get function  in contract  getPoolById()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPositionById()",
+   "fullTitle": "Staking read get function  in contract  getPositionById()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPositionIdsForAddress()",
+   "fullTitle": "Staking read get function  in contract  getPositionIdsForAddress()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "Empty data pool",
+   "fullTitle": "Staking addPool() default vaule pool Empty data pool",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking addPool() non-onwer-addPool reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "data pool must be equal input",
+   "fullTitle": "Staking addPool() owner-addPool data pool must be equal input",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add a lot pool",
+   "fullTitle": "Staking addPool() owner-addPool add a lot pool",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "Empty data positions",
+   "fullTitle": "Staking stakeEther() default vaule positions Empty data positions",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add position stakeERC20",
+   "fullTitle": "Staking stakeEther() add position stakeERC20 add position stakeERC20",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add a lot position",
+   "fullTitle": "Staking stakeEther() add position stakeERC20 add a lot position",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "changes the unlockDate",
+   "fullTitle": "Staking changeUnlockDate() owner changes the unlockDate",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking changeUnlockDate() non-owner reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modify lock period and apy",
+   "fullTitle": "Staking modifyLockPeriods() onwer should modify lock period and apy",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking modifyLockPeriods() non-onwer reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "transfers principal and interest",
+   "fullTitle": "Staking closePosition() after unlock date transfers principal and interest",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "transfers principal and penalize fee",
+   "fullTitle": "Staking closePosition() before unlock date transfers principal and penalize fee",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking closePosition() non-owner of that position reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking closePosition() Try Close closed positions reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should set owner",
+   "fullTitle": "Swap deploy should set owner",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap addLiquidity() non-onwer-addLiquidity reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should addLiquidity",
+   "fullTitle": "Swap addLiquidity() onwer-addLiquidity should addLiquidity",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap removeLiquidity() non-onwer-removeLiquidity reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should removeLiquidity",
+   "fullTitle": "Swap removeLiquidity() onwer-removeLiquidity should removeLiquidity",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with token does not exist reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with amountIn <= 0  reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with deadline  reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should give token (x*y=k)",
+   "fullTitle": "Swap swap() try swap  should give token (x*y=k)",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with impossible slippage reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  }
+ ],
+ "failures": [],
+ "passes": [
+  {
+   "title": "should set owner",
+   "fullTitle": "Faucet deploy should set owner",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyTimeFaucet() non-onwer-modifyTimeFaucet reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyTimeFaucet",
+   "fullTitle": "Faucet modifyTimeFaucet() onwer-modifyTimeFaucet should modifyTimeFaucet",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyLockHourPeriods() non-onwer-modifyLockHourPeriods reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyLockHourPeriods",
+   "fullTitle": "Faucet modifyLockHourPeriods() onwer-modifyLockHourPeriods should modifyLockHourPeriods",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet modifyAmountToken() non-onwer-modifyAmountToken reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modifyAmountToken",
+   "fullTitle": "Faucet modifyAmountToken() onwer-modifyAmountToken should modifyAmountToken",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet togleOpen() non-onwer-togleOpen reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should togleOpen",
+   "fullTitle": "Faucet togleOpen() onwer-modifyAmountToken should togleOpen",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet withdrawAllandClose() non-onwer-withdrawAllandClose reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should withdrawAllandClose",
+   "fullTitle": "Faucet withdrawAllandClose() onwer-withdrawAllandClose should withdrawAllandClose",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet getFaucet() getFaucet when on cooldown reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Faucet getFaucet() getFaucet when isClose reverts",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should getFaucet",
+   "fullTitle": "Faucet getFaucet() getFaucet should getFaucet",
+   "file": "test\\TestFaucet.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should set owner",
+   "fullTitle": "Staking deploy should set owner",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getLengthpool()",
+   "fullTitle": "Staking read get function  in contract  getLengthpool()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getAllpool()",
+   "fullTitle": "Staking read get function  in contract  getAllpool()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPoolById()",
+   "fullTitle": "Staking read get function  in contract  getPoolById()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPositionById()",
+   "fullTitle": "Staking read get function  in contract  getPositionById()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "getPositionIdsForAddress()",
+   "fullTitle": "Staking read get function  in contract  getPositionIdsForAddress()",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "Empty data pool",
+   "fullTitle": "Staking addPool() default vaule pool Empty data pool",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking addPool() non-onwer-addPool reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "data pool must be equal input",
+   "fullTitle": "Staking addPool() owner-addPool data pool must be equal input",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add a lot pool",
+   "fullTitle": "Staking addPool() owner-addPool add a lot pool",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "Empty data positions",
+   "fullTitle": "Staking stakeEther() default vaule positions Empty data positions",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add position stakeERC20",
+   "fullTitle": "Staking stakeEther() add position stakeERC20 add position stakeERC20",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "add a lot position",
+   "fullTitle": "Staking stakeEther() add position stakeERC20 add a lot position",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "changes the unlockDate",
+   "fullTitle": "Staking changeUnlockDate() owner changes the unlockDate",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking changeUnlockDate() non-owner reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should modify lock period and apy",
+   "fullTitle": "Staking modifyLockPeriods() onwer should modify lock period and apy",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking modifyLockPeriods() non-onwer reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "transfers principal and interest",
+   "fullTitle": "Staking closePosition() after unlock date transfers principal and interest",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "transfers principal and penalize fee",
+   "fullTitle": "Staking closePosition() before unlock date transfers principal and penalize fee",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking closePosition() non-owner of that position reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Staking closePosition() Try Close closed positions reverts",
+   "file": "test\\TestStaking.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should set owner",
+   "fullTitle": "Swap deploy should set owner",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap addLiquidity() non-onwer-addLiquidity reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should addLiquidity",
+   "fullTitle": "Swap addLiquidity() onwer-addLiquidity should addLiquidity",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap removeLiquidity() non-onwer-removeLiquidity reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should removeLiquidity",
+   "fullTitle": "Swap removeLiquidity() onwer-removeLiquidity should removeLiquidity",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with token does not exist reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with amountIn <= 0  reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with deadline  reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "should give token (x*y=k)",
+   "fullTitle": "Swap swap() try swap  should give token (x*y=k)",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  },
+  {
+   "title": "reverts",
+   "fullTitle": "Swap swap() try swap with impossible slippage reverts",
+   "file": "test\\TestSwap.js",
+   "currentRetry": 0,
+   "err": {}
+  }
+ ]
+}
